@@ -2,7 +2,8 @@
 
 An innovative digital audio workstation that combines the classic MPC-style interface with ElevenLabs' AI sound generation capabilities. Create unique beats, generate custom sounds, and produce music in a modern web interface.
 
-![BOLTxELEVENLABS Beat Machine](https://images.pexels.com/photos/1656278/pexels-photo-1656278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<img width="483" alt="Screenshot 2025-06-01 at 10 31 49 AM" src="https://github.com/user-attachments/assets/d8ae25b4-c1b8-4116-a504-800ad73a46d7" />
+
 
 ## Features
 
